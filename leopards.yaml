@@ -2,10 +2,14 @@ team: Leopards
 
 manager: Nora
 
+<<<<<<< HEAD
 coach: Nicholas
+=======
+coach: Melissa
+>>>>>>> 3caa23c (Edit Leopards)
 
 members:
-- Linda
-- William
-- David
-- Olivia
+  - Linda
+  - William
+  - David
+  - Olivia
